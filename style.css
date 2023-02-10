@@ -376,9 +376,10 @@ span:hover {
   }
   .content {
     display: flex;
+    justify-content: center;
     flex-wrap: wrap;
     padding: 24px 40px 86px 39px;
-    /* row-gap: 56px; */
+    row-gap: 56px;
     column-gap: 11px;
   }
   .check-out {
